@@ -15,7 +15,7 @@ This is a MERN (MongoDB, Express.js, React, Node.js) eCommerce shopping cart pro
 
 ## Demo
 
-You can check out a live demo of this project [here](https://your-demo-url.com).
+You can check out a live demo of this project [here](https://shopping-cart-new-one.vercel.app).
 
 ## Features
 
